@@ -78,6 +78,9 @@ img {
     padding: 3px;
     border: 1px solid #ddd;
 }
+.post-header h1 {
+  background-color: #f2f2f2;
+}
 
 
 /**
@@ -116,6 +119,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+h2{
+  padding-left: 0em;
+  border-bottom: 1px solid #cac6c6;
+}
 
 
 /**
