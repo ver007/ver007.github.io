@@ -1,9 +1,9 @@
-title: 学习记录
+title: SMB8-SEC
 author:
-  name: 学习记录
-  email: ----------@xx.xxx
+  name: SMB8-SEC
+  email: Admin@SMB8.COM
 description: > # this means to ignore newlines until "show_excerpts:"
-  那些悲伤的往事，总会教会你什么.
+  那些过去的往事，总会教会你什么.
 
 show_excerpts: true # 是否显示摘要
 paginate: 5

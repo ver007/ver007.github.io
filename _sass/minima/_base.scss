@@ -65,10 +65,19 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 700px;
   vertical-align: middle;
+  display: block;
+  margin: auto;
+  height: auto;
 }
 
+.post-content img {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 3px;
+    border: 1px solid #ddd;
+}
 
 
 /**
